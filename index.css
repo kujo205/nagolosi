@@ -43,7 +43,8 @@ h2:hover{
     font-weight: bolder;
 }
 .succes-img{
-    width: 400px;
+    width: inherit;
+    max-width: 400px;
 }
 .variant{
     width: 200px;
